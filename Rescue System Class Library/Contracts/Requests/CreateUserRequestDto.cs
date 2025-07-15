@@ -1,6 +1,6 @@
 ﻿namespace RescueSystem.Contracts.Contracts.Requests;
 
-public class CreateUserRequest
+public class CreateUserRequestDto
 {
     public string FullName { get; set; } = null!;
     public DateOnly? DateOfBirth { get; set; }

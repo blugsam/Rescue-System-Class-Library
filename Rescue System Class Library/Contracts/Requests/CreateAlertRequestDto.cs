@@ -1,6 +1,6 @@
 ﻿namespace RescueSystem.Contracts.Contracts.Requests;
 
-public class CreateAlertRequest
+public class CreateAlertRequestDto
 {
     public string SerialNumber { get; set; } = null!;
     public double Latitude { get; set; }

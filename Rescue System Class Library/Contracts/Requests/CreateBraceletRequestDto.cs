@@ -1,6 +1,6 @@
 ﻿namespace RescueSystem.Contracts.Contracts.Requests;
 
-public class CreateBraceletRequest
+public class CreateBraceletRequestDto
 {
     public string SerialNumber { get; set; } = null!;
 }

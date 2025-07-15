@@ -1,6 +1,6 @@
 ﻿namespace RescueSystem.Contracts.Contracts.Requests;
 
-public class UpdateBraceletRequest
+public class UpdateBraceletRequestDto
 {
     public string Status { get; set; } = null!;
 }

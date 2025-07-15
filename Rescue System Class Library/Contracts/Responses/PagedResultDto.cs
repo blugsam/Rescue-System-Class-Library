@@ -1,6 +1,6 @@
-﻿namespace RescueSystem.Contracts.Contracts.Models;
+﻿namespace RescueSystem.Contracts.Contracts.Responses;
 
-public class PagedResult<T> where T : class
+public class PagedResultDto<T> where T : class
 {
     public List<T> Items { get; init; } = new();
 
