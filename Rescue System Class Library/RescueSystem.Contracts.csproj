@@ -6,7 +6,9 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
-    <Version>1.0.2</Version>
+    <Version>1.1</Version>
+    <Company>Rescue System</Company>
+    <Authors>Blugsam</Authors>
   </PropertyGroup>
 
 </Project>
